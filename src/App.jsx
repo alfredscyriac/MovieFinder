@@ -51,7 +51,6 @@ const App = () => {
       setMovieList(data.results || []); 
 
       if(query && data.results.length > 0) {
-        console.log('About to call updateSearchCount with:', query, data.results[0]);
         await updateSearchCount(query, data.results[0]);
       }
     } catch (error) {
