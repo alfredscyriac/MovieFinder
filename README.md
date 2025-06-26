@@ -8,9 +8,19 @@
 
 ## 🗂 Table of Contents
 
+- [Preview](#preview)
 - [Tech Stack](#tech-stack)  
 - [Installation & Usage](#installation--usage)  
 - [Configuration](#configuration)   
+
+---
+
+## Preview 
+<div>
+    <a href="https://www.loom.com/share/13aff57db4c541a693b2df7f8065acfa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/13aff57db4c541a693b2df7f8065acfa-fb13784075d5f6dc-full-play.gif">
+    </a>
+  </div>
 
 ---
 
