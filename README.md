@@ -1,6 +1,6 @@
 # MovieFinder
 
-> A React-powered movie search platform with user-driven trending list. 
+> MovieFinder is a React application built with Vite. It pulls data from the Movie Database API, which provides details about each movie: title, poster, rating, original language, and release date. Twenty movies are displayed by default; these are currently the most “in-demand” titles on TMDB. There’s also a Trending Movies section showing the five films most searched by MovieFinder users, based on data retrieved from the Appwrite database (which stores every user search and its count). The search bar lets users look up any movie they want and uses an 800 ms debounce to limit API calls. This project was created to learn and practice React fundamentals—state, hooks, and components. Future updates will include user authentication, search-bar filters, and custom user reviews for each movie. I’d love to hear any feedback on how I can improve MovieFinder!
 
 📍 **Live Site:** https://ascmoviefinder.vercel.app/ 
 
